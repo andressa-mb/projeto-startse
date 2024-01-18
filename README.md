@@ -1,3 +1,3 @@
 # projeto-startse
 
-Repositório para aula de git.
+Link do projeto: https://projeto-viagens.netlify.app/
